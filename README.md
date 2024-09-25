@@ -1,1 +1,1 @@
-# Pandas-Wizard
+# Pandas Wizard: From Novice to Master
